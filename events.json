@@ -1,0 +1,254 @@
+[
+    {
+        "event": "Resolution Proposal",
+        "description": "A resolution on nuclear disarmament is up for debate. Choose how to respond.",
+        "choices": {
+            "support": { "reputation": 5, "alliances": 1 },
+            "oppose": { "reputation": -5, "alliances": 1 },
+            "abstain": { "reputation": 0, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Border Dispute Debate",
+        "description": "Two countries are disputing a border. Decide your stance.",
+        "choices": {
+            "mediate": { "reputation": 5, "alliances": 1 },
+            "side_one": { "reputation": -3, "alliances": 1 },
+            "neutral": { "reputation": 0, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Human Rights Vote",
+        "description": "Vote on investigating human rights violations in a member state.",
+        "choices": {
+            "vote_yes": { "reputation": 8, "alliances": 1 },
+            "vote_no": { "reputation": -8, "alliances": 0 },
+            "abstain": { "reputation": -2, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Climate Initiative",
+        "description": "A global climate initiative is proposed. Choose your action.",
+        "choices": {
+            "join": { "reputation": 7, "alliances": 1 },
+            "ignore": { "reputation": -5, "alliances": 0 },
+            "oppose": { "reputation": -7, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Trade Negotiation",
+        "description": "Negotiate a trade agreement with multiple nations.",
+        "choices": {
+            "agree": { "reputation": 5, "alliances": 2 },
+            "refuse": { "reputation": -5, "alliances": -1 },
+            "propose_alternative": { "reputation": 2, "alliances": 1 }
+        }
+    },
+    {
+        "event": "Disaster Relief Request",
+        "description": "A nation asks for aid after a natural disaster.",
+        "choices": {
+            "send_aid": { "reputation": 6, "alliances": 1 },
+            "refuse": { "reputation": -6, "alliances": -1 },
+            "delay": { "reputation": -2, "alliances": 0 }
+        }
+    },
+    {
+        "event": "International Sports Event",
+        "description": "Decide whether to host an international sporting event.",
+        "choices": {
+            "host": { "reputation": 5, "alliances": 2 },
+            "decline": { "reputation": -3, "alliances": 0 },
+            "propose_virtual": { "reputation": 3, "alliances": 1 }
+        }
+    },
+    {
+        "event": "Alien Contact Summit",
+        "description": "Aliens arrive! You are invited to a UN summit on extraterrestrial relations.",
+        "choices": {
+            "welcome": { "reputation": 8, "alliances": 2 },
+            "ignore": { "reputation": -5, "alliances": 0 },
+            "protest": { "reputation": -3, "alliances": -1 }
+        }
+    },
+    {
+        "event": "International Meme Diplomacy",
+        "description": "Use memes to improve relations with other nations.",
+        "choices": {
+            "share_memes": { "reputation": 4, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "complain": { "reputation": -3, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Trade Ban Proposal",
+        "description": "Vote on imposing a trade ban on a controversial product.",
+        "choices": {
+            "approve": { "reputation": -3, "alliances": 1 },
+            "reject": { "reputation": 3, "alliances": 0 },
+            "abstain": { "reputation": 0, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Peaceful Protest Mediation",
+        "description": "Mediators request your country’s support for peaceful protests in a member state.",
+        "choices": {
+            "support": { "reputation": 5, "alliances": 1 },
+            "ignore": { "reputation": -4, "alliances": 0 },
+            "oppose": { "reputation": -6, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Cultural Exchange Program",
+        "description": "Propose a cultural exchange program for youth diplomats.",
+        "choices": {
+            "propose": { "reputation": 6, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "block": { "reputation": -2, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Global Food Initiative",
+        "description": "Vote on a program to supply food to famine-stricken regions.",
+        "choices": {
+            "support": { "reputation": 7, "alliances": 1 },
+            "oppose": { "reputation": -7, "alliances": -1 },
+            "abstain": { "reputation": -2, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Robot Peacekeepers",
+        "description": "Propose using AI robots for UN peacekeeping missions.",
+        "choices": {
+            "approve": { "reputation": 6, "alliances": 1 },
+            "reject": { "reputation": -4, "alliances": 0 },
+            "modify_plan": { "reputation": 3, "alliances": 1 }
+        }
+    },
+    {
+        "event": "International Hug Day",
+        "description": "Vote on creating a global day of friendship hugs.",
+        "choices": {
+            "support": { "reputation": 4, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "oppose": { "reputation": -2, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Global Yoga Summit",
+        "description": "Invite countries to a summit promoting peace through yoga.",
+        "choices": {
+            "host": { "reputation": 5, "alliances": 1 },
+            "decline": { "reputation": -3, "alliances": 0 },
+            "propose_online": { "reputation": 2, "alliances": 1 }
+        }
+    },
+    {
+        "event": "Internet Freedom Vote",
+        "description": "Vote on supporting global internet freedom initiatives.",
+        "choices": {
+            "support": { "reputation": 7, "alliances": 1 },
+            "oppose": { "reputation": -5, "alliances": 0 },
+            "abstain": { "reputation": 0, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Penguin Diplomacy",
+        "description": "Host a penguin-themed peace parade to charm world leaders.",
+        "choices": {
+            "host": { "reputation": 3, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "criticize": { "reputation": -2, "alliances": -1 }
+        }
+    },
+    {
+        "event": "World Pizza Day",
+        "description": "Propose a global pizza celebration to improve relations.",
+        "choices": {
+            "propose": { "reputation": 4, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "oppose": { "reputation": -1, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Rocket Launch Debate",
+        "description": "Your peaceful rocket launch sparks debate at the UN.",
+        "choices": {
+            "explain": { "reputation": 5, "alliances": 1 },
+            "ignore": { "reputation": -3, "alliances": 0 },
+            "apologize": { "reputation": 2, "alliances": 1 }
+        }
+    },
+    {
+        "event": "International Music Festival",
+        "description": "Propose hosting a music festival for cultural diplomacy.",
+        "choices": {
+            "host": { "reputation": 6, "alliances": 2 },
+            "decline": { "reputation": -2, "alliances": 0 },
+            "virtual": { "reputation": 3, "alliances": 1 }
+        }
+    },
+    {
+        "event": "AI Ethics Summit",
+        "description": "Decide if your nation should lead an AI ethics discussion.",
+        "choices": {
+            "lead": { "reputation": 7, "alliances": 1 },
+            "decline": { "reputation": -3, "alliances": 0 },
+            "cohost": { "reputation": 5, "alliances": 1 }
+        }
+    },
+    {
+        "event": "Peaceful Robot Parade",
+        "description": "Host a parade of robots to promote peace and tech cooperation.",
+        "choices": {
+            "host": { "reputation": 4, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "cancel": { "reputation": -2, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Global Dance Festival",
+        "description": "Invite nations to a dance festival for diplomacy.",
+        "choices": {
+            "host": { "reputation": 5, "alliances": 2 },
+            "decline": { "reputation": -2, "alliances": 0 },
+            "virtual": { "reputation": 3, "alliances": 1 }
+        }
+    },
+    {
+        "event": "International Art Exhibit",
+        "description": "Showcase global art to improve cultural ties.",
+        "choices": {
+            "host": { "reputation": 6, "alliances": 1 },
+            "decline": { "reputation": -2, "alliances": 0 },
+            "propose_online": { "reputation": 3, "alliances": 1 }
+        }
+    },
+    {
+        "event": "Food Safety Debate",
+        "description": "Vote on international food safety regulations.",
+        "choices": {
+            "support": { "reputation": 5, "alliances": 1 },
+            "oppose": { "reputation": -4, "alliances": -1 },
+            "abstain": { "reputation": 0, "alliances": 0 }
+        }
+    },
+    {
+        "event": "Virtual Hug Proposal",
+        "description": "Propose a virtual global hug event to reduce tensions.",
+        "choices": {
+            "support": { "reputation": 4, "alliances": 1 },
+            "ignore": { "reputation": 0, "alliances": 0 },
+            "oppose": { "reputation": -1, "alliances": -1 }
+        }
+    },
+    {
+        "event": "Internet Meme Treaty",
+        "description": "Negotiate a treaty on respectful meme usage between nations.",
+        "choices": {
+            "sign": { "reputation": 4, "alliances": 1 },
+            "refuse": { "reputation": -2, "alliances": -1 },
+            "modify": { "reputation": 2, "alliances": 1 }
+        }
+    }
+]

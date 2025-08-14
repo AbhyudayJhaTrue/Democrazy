@@ -1,0 +1,282 @@
+[
+  {
+    "event": "Nuclear Disarmament Resolution",
+    "description": "The UNGA debates a resolution to reduce nuclear weapons globally.",
+    "discussion": {
+      "give_speech": {"reputation": 5, "alliances": 0},
+      "lobby": {"reputation": 3, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 4, "alliances": 1},
+      "vote_no": {"reputation": -4, "alliances": -1},
+      "abstain": {"reputation": 0, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 2,
+      "lobby": 1,
+      "vote_yes": 3,
+      "vote_no": -3,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Climate Action Initiative",
+    "description": "Countries vote on stricter climate regulations.",
+    "discussion": {
+      "give_speech": {"reputation": 4, "alliances": 0},
+      "lobby": {"reputation": 2, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 5, "alliances": 1},
+      "vote_no": {"reputation": -5, "alliances": -1},
+      "abstain": {"reputation": -1, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 1,
+      "lobby": 1,
+      "vote_yes": 3,
+      "vote_no": -4,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Global Internet Freedom Resolution",
+    "description": "A resolution promoting free internet access worldwide is being voted on.",
+    "discussion": {
+      "give_speech": {"reputation": 4, "alliances": 0},
+      "lobby": {"reputation": 3, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 5, "alliances": 1},
+      "vote_no": {"reputation": -4, "alliances": -1},
+      "abstain": {"reputation": 0, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 2,
+      "lobby": 1,
+      "vote_yes": 3,
+      "vote_no": -3,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Refugee Aid Program",
+    "description": "Vote on sending international aid to refugees.",
+    "discussion": {
+      "give_speech": {"reputation": 5, "alliances": 0},
+      "lobby": {"reputation": 3, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 5, "alliances": 2},
+      "vote_no": {"reputation": -5, "alliances": -1},
+      "abstain": {"reputation": -1, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 2,
+      "lobby": 1,
+      "vote_yes": 4,
+      "vote_no": -4,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Cybersecurity Treaty",
+    "description": "Vote on a treaty to prevent cyberattacks between nations.",
+    "discussion": {
+      "give_speech": {"reputation": 5, "alliances": 0},
+      "lobby": {"reputation": 2, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 5, "alliances": 1},
+      "vote_no": {"reputation": -5, "alliances": -1},
+      "abstain": {"reputation": -1, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 2,
+      "lobby": 1,
+      "vote_yes": 3,
+      "vote_no": -3,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "AI Ethics Resolution",
+    "description": "Vote on creating international guidelines for AI ethics.",
+    "discussion": {
+      "give_speech": {"reputation": 5, "alliances": 0},
+      "lobby": {"reputation": 3, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 5, "alliances": 1},
+      "vote_no": {"reputation": -4, "alliances": -1},
+      "abstain": {"reputation": -1, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 2,
+      "lobby": 1,
+      "vote_yes": 3,
+      "vote_no": -3,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Ban Plastic Straws Resolution",
+    "description": "A proposal to ban plastic straws worldwide is being voted on.",
+    "discussion": {
+      "give_speech": {"reputation": 3, "alliances": 0},
+      "lobby": {"reputation": 2, "alliances": 1}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 4, "alliances": 1},
+      "vote_no": {"reputation": -3, "alliances": -1},
+      "abstain": {"reputation": 0, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 1,
+      "lobby": 1,
+      "vote_yes": 2,
+      "vote_no": -2,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Global Dance Festival Vote",
+    "description": "Vote on hosting an international dance festival for diplomacy.",
+    "discussion": {
+      "give_speech": {"reputation": 4, "alliances": 0},
+      "lobby": {"reputation": 2, "alliances": 2}
+    },
+    "vote": {
+      "vote_yes": {"reputation": 5, "alliances": 2},
+      "vote_no": {"reputation": -3, "alliances": -1},
+      "abstain": {"reputation": 0, "alliances": 0}
+    },
+    "internal_reputation": {
+      "give_speech": 1,
+      "lobby": 1,
+      "vote_yes": 3,
+      "vote_no": -2,
+      "abstain": 0
+    }
+  },
+  {
+    "event": "Disband NATO",
+    "description": "A controversial proposal to permanently dissolve the NATO alliance, leaving member states without mutual defense agreements.",
+    "discussion": {
+      "give_speech": {"reputation": -4, "alliances": -5},
+      "lobby": {"reputation": -3, "alliances": -4}
+    },
+    "vote": {
+      "vote_yes": {"reputation": -8, "alliances": -10},
+      "vote_no": {"reputation": 5, "alliances": 4},
+      "abstain": {"reputation": -2, "alliances": -3}
+    },
+    "internal_reputation": {
+      "give_speech": -3,
+      "lobby": -2,
+      "vote_yes": -7,
+      "vote_no": 4,
+      "abstain": -1
+    }
+  },
+  {
+    "event": "Legalize State-Sponsored Cyberattacks",
+    "description": "Proposal to allow nations to launch cyberattacks without facing international sanctions.",
+    "discussion": {
+      "give_speech": {"reputation": -5, "alliances": -4},
+      "lobby": {"reputation": -4, "alliances": -3}
+    },
+    "vote": {
+      "vote_yes": {"reputation": -9, "alliances": -8},
+      "vote_no": {"reputation": 6, "alliances": 5},
+      "abstain": {"reputation": -3, "alliances": -2}
+    },
+    "internal_reputation": {
+      "give_speech": -3,
+      "lobby": -2,
+      "vote_yes": -8,
+      "vote_no": 5,
+      "abstain": -1
+    }
+  },
+  {
+    "event": "Ban All Humanitarian Aid",
+    "description": "A radical proposal to prohibit all forms of humanitarian aid, including disaster relief and medical assistance, to other countries.",
+    "discussion": {
+      "give_speech": {"reputation": -6, "alliances": -6},
+      "lobby": {"reputation": -5, "alliances": -5}
+    },
+    "vote": {
+      "vote_yes": {"reputation": -10, "alliances": -9},
+      "vote_no": {"reputation": 7, "alliances": 6},
+      "abstain": {"reputation": -4, "alliances": -3}
+    },
+    "internal_reputation": {
+      "give_speech": -4,
+      "lobby": -3,
+      "vote_yes": -9,
+      "vote_no": 6,
+      "abstain": -2
+    }
+  },
+  {
+    "event": "Abolish International Human Rights Laws",
+    "description": "Proposal to eliminate all international agreements protecting human rights, allowing nations to govern without oversight.",
+    "discussion": {
+      "give_speech": {"reputation": -6, "alliances": -5},
+      "lobby": {"reputation": -5, "alliances": -4}
+    },
+    "vote": {
+      "vote_yes": {"reputation": -10, "alliances": -8},
+      "vote_no": {"reputation": 7, "alliances": 6},
+      "abstain": {"reputation": -3, "alliances": -3}
+    },
+    "internal_reputation": {
+      "give_speech": -4,
+      "lobby": -3,
+      "vote_yes": -9,
+      "vote_no": 6,
+      "abstain": -2
+    }
+  },
+  {
+    "event": "Ban International Disaster Response Teams",
+    "description": "A dangerous proposal to disband all global emergency response units that help in earthquakes, floods, and other disasters.",
+    "discussion": {
+      "give_speech": {"reputation": -5, "alliances": -4},
+      "lobby": {"reputation": -4, "alliances": -3}
+    },
+    "vote": {
+      "vote_yes": {"reputation": -9, "alliances": -8},
+      "vote_no": {"reputation": 6, "alliances": 5},
+      "abstain": {"reputation": -3, "alliances": -2}
+    },
+    "internal_reputation": {
+      "give_speech": -3,
+      "lobby": -2,
+      "vote_yes": -8,
+      "vote_no": 5,
+      "abstain": -1
+    }
+  },
+  {
+    "event": "Privatize Global Freshwater Supply",
+    "description": "A proposal to hand over all sources of freshwater to private corporations, allowing them to set any price for drinking water.",
+    "discussion": {
+      "give_speech": {"reputation": -6, "alliances": -5},
+      "lobby": {"reputation": -5, "alliances": -4}
+    },
+    "vote": {
+      "vote_yes": {"reputation": -10, "alliances": -9},
+      "vote_no": {"reputation": 7, "alliances": 6},
+      "abstain": {"reputation": -4, "alliances": -3}
+    },
+    "internal_reputation": {
+      "give_speech": -4,
+      "lobby": -3,
+      "vote_yes": -9,
+      "vote_no": 6,
+      "abstain": -2
+    }
+  }
+]
